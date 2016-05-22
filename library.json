@@ -1,0 +1,13 @@
+{
+    "name": "EllipticCurve",
+    "keywords": "crypto, cryptography, ECDSA, ECDH",
+    "description": "PlatformIO Wrapper for Ken MacKay's excellent elliptic curve crypto library supporting ECDSA and ECDH",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/kieransimkin/elliptic-platformio"
+    },
+    "frameworks": "*",
+    "platforms": "*",
+    "include": "src/micro-ecc"
+}
